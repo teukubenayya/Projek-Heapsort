@@ -3,9 +3,9 @@
 Program ini dibuat untuk mengimplementasikan algoritma Heap Sort dalam bahasa C dengan membaca data dari file teks.
 
 ## Anggota Kelompok:
-1. Nama Anggota 1
-2. Nama Anggota 2
-3. Dan seterusnya...
+1. Teuku Benayya Kiram Azkia
+2. Diva Alifia
+3. Nadiaturrahmi
 
 ## Cara Menjalankan Program:
 1. Siapkan file `input.txt` berisi data angka.
